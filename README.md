@@ -1,4 +1,8 @@
-### Hi there 👋
+# About Me
+
+Hi there 👋
+
+I am Mortaza, a **Front-End (React.js) Developer** with experience of working on an enterprise software program and personal projects. Dedicated to writing clean and structured code, optimizing performance, and applying UI/UX principles. Passionate about tackling challenges, learning more, and helping others.
 
 <!--
 **m-jabbarpour/m-jabbarpour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
